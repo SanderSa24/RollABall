@@ -1,12 +1,12 @@
-# RollABall
-https://learn.unity.com/project/roll-a-ball
-Changes:
--Menu
--ObjectPooling
--Endless pick ups
--Timer till game over
-- Highscore
--Editable names in highscore
--Multiplayer local
--Change player colors
--Multiplayer online
+# RollABall<br/>
+https://learn.unity.com/project/roll-a-ball<br/>
+Changes:<br/>
+- Menu<br/>
+- ObjectPooling<br/>
+- Endless pick ups<br/>
+- Timer till game over<br/>
+- Highscore<br/>
+- Editable names in highscore<br/>
+- Multiplayer local<br/>
+- Change player colors<br/>
+- Multiplayer online<br/>
